@@ -1,6 +1,6 @@
 {
   "name": "@kldit/util-array-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Intersect two arrays",
   "main": "index.js",
   "scripts": {
